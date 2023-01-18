@@ -1,0 +1,55 @@
+body {
+    background-color: #ffecd1;
+}
+
+/* HEADINGS */
+
+.primary-heading {
+    background: #ff7d00;
+    color: #15616d;
+    font-size: 42px;
+    font-weight: 700;
+    height: 100px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    color: #15616d;
+}
+
+/* PARA */
+
+p {
+    font-size: 20px;
+    width: 80%;
+}
+
+.nav {
+    background-color: #ff7d00;
+}
+
+ul li {
+    list-style-type: none;
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
+.active {
+    color: #15616d;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+
+/* IMG STYLES */
+
+img {
+    height: auto;
+    width: 500px;
+}
